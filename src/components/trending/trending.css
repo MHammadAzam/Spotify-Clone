@@ -1,0 +1,10 @@
+.trendingSectionMainContainer{
+    width: 98%;
+    height: 60%;
+    margin: auto;
+    padding: 1rem 0;
+}
+.trendingSectionMainContainer span{
+    font-size: 1.5rem;
+    font-weight: 800;
+}
